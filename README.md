@@ -3,6 +3,15 @@ This repository was created to help people find events related to the R language
 
 ## 2019
 
+### IV Internacional Seminar on Statistics with R
+Date: May 21-23, 2019
+
+Place: Niterói, Rio de Janeiro, Brasil
+
+Website: http://ser.uff.br/
+
+Call for papers: http://ser.uff.br/call/
+
 ### useR!
 Date: July 9-12, 2019
 
