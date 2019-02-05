@@ -47,3 +47,6 @@ Date: ?
 Place: ? (Latin America)
 
 Twitter: https://twitter.com/conecta_R
+
+Find out more: 
+https://www.r-project.org/conferences.html
