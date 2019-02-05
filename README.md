@@ -50,3 +50,5 @@ Twitter: https://twitter.com/conecta_R
 
 Find out more: 
 https://www.r-project.org/conferences.html
+
+https://jumpingrivers.github.io/meetingsR/events.html
